@@ -41,7 +41,7 @@ Além de melhorar a qualidade do código, o SonarQube também desempenha um pape
 
 
 
-**Readme em constate atualização proximos passos imagens da aplicação rodando**
+**Readme em construção proximos passos imagens da aplicação rodando**
 ---
 
 Desenvolvido com ❤️ por SILVANA
